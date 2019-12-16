@@ -6,7 +6,6 @@
   "scripts": {
     "test:api": "jest api-test/"
   },
-
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^24.0.22",
